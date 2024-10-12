@@ -14,4 +14,4 @@ Private API
 
 ## To-do
 
-- Animations on the main menu where the 
+- Animations on the main menu where there's like a swipe thing
